@@ -1,3 +1,4 @@
+
 // Заполнение базы тестовыми товарами: npm run seed
 require('dotenv').config()
 const mongoose = require('mongoose')
